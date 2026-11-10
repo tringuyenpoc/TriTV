@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#0E0F13</color>
+    <color name="card">#1C1E26</color>
+    <color name="accent">#F5B82E</color>
+    <color name="text">#F2F2F2</color>
+    <color name="muted">#9AA0AE</color>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+</resources>
